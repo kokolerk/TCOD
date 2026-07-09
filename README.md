@@ -18,6 +18,9 @@ Official codebase for **TCOD**, a temporal curriculum framework for on-policy di
 
 ## 🔥 News
 
+- **[2026-07]** Our paper is accepted by COLM 2026!
+
+
 - **[2026-06]**  ✍️ New blog post out: [on-policy distillation pitfalls](https://kokolerk.github.io/blog/onpolicy-distillation-pitfalls/) — sharing the lessons and pitfalls behind our training. Welcome to read and discuss on my blog!
 
 
